@@ -1,4 +1,10 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-image: url(../assets/bg.jpg);
     background-repeat: no-repeat; /* keyword */
@@ -6,4 +12,9 @@ body {
     background-position: top center; /* vertical (y) horizontal (x) */
     background-color: #121214;
     color: #fff;
+}
+
+body *, :root {
+    font-family: "Inter";
+    line-height: 160%;
 }

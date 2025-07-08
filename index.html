@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NLW Agents eSports</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -14,8 +18,27 @@
     </header>
     <main>
         <section>
-            <h2>Assistente de Meta</h2>
-            <p>Pergunte sobre estratégias, builds e dicas para seus jogos!</p>
+            <div>
+                <h2>Assistente de Meta</h2>
+                <p>Pergunte sobre estratégias, builds e dicas para seus jogos!</p>
+
+                <form action="">
+                    <input type="password" placeholder="Informe a API Key do Gemini" required>
+                    <select>
+                        <option value="">Selecione um jogo</option>
+                        <option value="minecraft">Minecraft</option>
+                        <option value="valorant">Valorant</option>
+                        <option value="lol">League Of Legends</option>
+                        <option value="csgo">CS:GO</option>
+                    </select>
+                    <input type="text" placeholder="Ex: Melhor build para ADC..." required>
+                    <button>Perguntar</button>
+                </form>
+
+                <div id="aiResponse">
+                    <div class="response-content"></div>
+                </div>
+            </div>
         </section>
     </main>
 </body>
