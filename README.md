@@ -1,5 +1,8 @@
 
-# HTML
+# NLW Agents eSports
+Assistente de Meta. Pergunte sobre estratégias, builds e dicas para seus jogos!
+
+## HTML
 - HyperText
     - Textos puros, livros, revistas, jornais;
     - Links: acessar outros documentos;
@@ -13,7 +16,7 @@
     - Linguagem
     - Sintaxe: maneira de escrever
 
-# HTTP
+## HTTP
 - HyperText
 - Transfer
     - Transferência
@@ -21,7 +24,7 @@
     - Protocolo
     - Conjunto de regras
 
-# URL
+## URL
 - Uniform
     - Uniforme
 - Resource
@@ -31,7 +34,7 @@
     - Encontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3, ...)
     - Endereço
 
-# IP
+## IP
 - Internet
     - Rede mundial de computadores
 - Protocol
@@ -40,7 +43,7 @@
     - rocketseat.com.br (domínio)
     - 123.32.1.23 (ip)
 
-# DNS
+## DNS
 - Domain
     - Domínio
 - Name
@@ -48,7 +51,7 @@
 - Server
     - Servidor
 
-# CSS
+## CSS
 - Cascading
     - Cascata
     - Regras das escritas
@@ -64,3 +67,33 @@ A partir disso, o HTML é impactado visualmente.
 - Declaração
 - Seletor
 - Propriedade e valor
+
+## JavaScript
+- Linguagem de programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis
+- Function
+    - Agrupamento e reuso de código
+    - Sequência lógica
+    - Saída
+- Gemini (IA): Esperar uma resposta
+- Mexer no navegador
+- Estrutura de dados
+- Estrutura de decisão
+- Algoritmo: Sequência de passos lógica, de maneira ordenada, a fim de chegar a uma conclusão (limitada)
+- Lógica (pensamento computacional)
+    - Abstração
+    - Decomposição
+    - Algoritmo
+    - Reconhecimento de padrão
+- Tipos de dados
+    - Number (números)
+    - String (textos) ( "", '', `` )
+    - Boolean (true | false)
+    - Objects
+
+## DOM
+- Document
+- Object
+- Model
