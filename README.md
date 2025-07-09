@@ -110,3 +110,18 @@ A partir disso, o HTML é impactado visualmente.
 - Content
 - Delivery
 - Network
+
+## LLM
+- Large
+- Language
+- Model
+- Gemini, OpenAI (ChatGPT), Anthropic (Claude)...
+
+## Agentes IA
+- Tools (ferramentas): Permitem uso de código, ou apps, ou qualquer informação extra.
+- Melhor contexto
+
+## Engenharia de prompt
+- One shot: Uma única pergunta sem muito contexto.
+- Few shot: São apresentados exemplos do que se espera.
+- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução. 
