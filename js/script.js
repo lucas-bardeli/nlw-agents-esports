@@ -1,4 +1,3 @@
-
 const form = document.getElementById('form');
 const apiKeyInput = document.getElementById('api-key');
 const gameSelect = document.getElementById('game-select');
